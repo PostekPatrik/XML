@@ -1,0 +1,66 @@
+[
+  {
+    "ime":"EarthQuaker Devices Special Cranker",
+    "slika":"img/prvi.jpg",
+    "stanje":"novo",
+    "lokacija":"Lordel Musique",
+    "cijena":"€129"
+  },
+  {
+    "ime":"CHASE BLISS Habit 2021",
+    "slika":"img/drugi.webp",
+    "stanje":"novo",
+    "lokacija":"Omega Music",
+    "cijena":"€494.84"
+  },
+  {
+    "ime":"Ibanez Ts9 Tubescreamer",
+    "slika":"img/treci.webp",
+    "stanje":"rabljeno",
+    "lokacija":"MUSIC WORKS",
+    "cijena":"€145.88"
+  },
+  {
+    "ime":"Electro Harmonix Big Muff Pi Usa",
+    "slika":"img/cetvrti.webp",
+    "stanje":"novo",
+    "lokacija":"MUSIC WORKS",
+    "cijena":"€94.63"
+  },
+  {
+    "ime":"MXR M148 Analog Chorus",
+    "slika":"img/peti.webp",
+    "stanje":"rabljeno",
+    "lokacija":"Music Vanderheyden",
+    "cijena":"€104.87"
+  },
+  {
+    "ime":"MXR M169 Carbon Copy",
+    "slika":"img/sesti.webp",
+    "stanje":"novo",
+    "lokacija":"Music Vanderheyden",
+    "cijena":"€154.28"
+  },
+  {
+    "ime":"Vox V846HW",
+    "slika":"img/sedmi.webp",
+    "stanje":"novo",
+    "lokacija":"Musik Produktiv",
+    "cijena":"€188.03"
+  },
+  {
+    "ime":"Boss CS-3 Compression Sustainer",
+    "slika":"img/osmi.webp",
+    "stanje":"rabljeno",
+    "lokacija":"Jumper",
+    "cijena":"€90"
+  },
+  {
+    "ime":"Boss Tu 3W",
+    "slika":"img/deveti.webp",
+    "stanje":"novo",
+    "lokacija":"MUSIC WORKS",
+    "cijena":"€173.25"
+  }
+]
+
